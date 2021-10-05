@@ -1,0 +1,11 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "hardhat": "^2.6.4"
+  },
+  "dependencies": {
+    "@openzeppelin/cli": "^2.8.2",
+    "ethers": "^4.0.49"
+  }
+}
